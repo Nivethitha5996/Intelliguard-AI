@@ -1,0 +1,4 @@
+train: datasets/images/train
+val: datasets/images/val
+nc: 6
+names: ["helmet", "gloves", "goggles", "mask", "suit", "shoes"]
